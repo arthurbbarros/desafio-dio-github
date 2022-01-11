@@ -1,2 +1,3 @@
-# desafio-dio-github
-Desafio da DIO sobre Git/Github
+#desafio-dio-github
+Este repositório foi apenas um peqeueno desafio proposto pela DIO dentro do Bootcamp do banco Inter.
+
